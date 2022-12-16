@@ -14,4 +14,4 @@ Once they have finished, they will be able to upload the images to the database 
 
 ## Acknowledgements
 We are grateful to Dr. Dani Schrire and the Folklore Studies Center at Hebrew University for entrusting us with this important project.  
-I also wish to thank Dr. Netzer and Dr. Sober for their mentorship in this project.
+I also wish to thank Dr. Netzer and Dr. Sober from the Digital Humanities Center for their mentorship in this project.
