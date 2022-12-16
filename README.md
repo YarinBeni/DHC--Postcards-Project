@@ -3,6 +3,7 @@ Welcome to the Postcards Project, a collaborative effort to digitize and organiz
 In this project, we help in the scanning, tagging, and preprocessing of the data, as well as building a database in the university cluster.
 
 To aid in this process, I have developed a Python script for preprocessing images and Excel tables to match the database API.
+The script uses: Python, Pandas, OS, PIL and does not use any other external libraries or technologies beyond these four.
 
 ## Project Goals
 The goal of the Postcards Project is to make this unique and valuable collection of postcards more accessible to researchers and the general public.  
