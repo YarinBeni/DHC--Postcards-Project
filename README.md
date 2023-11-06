@@ -6,9 +6,11 @@ To aid in this process, I have developed a Python script for preprocessing image
 The script uses: Python, Pandas, OS, PIL and does not use any other external libraries or technologies beyond these four.
 
 <p float="left">
-  <img src="https://github.com/YarinBeni/DHC--Postcards-Project/blob/main/P063.D013.PN00002.S001.F.png?raw=true" width="300" />
-  <img src="https://github.com/YarinBeni/DHC--Postcards-Project/blob/main/P063.D013.PN00002.S001.B.png?raw=true" width="300" /> 
+  <img src="https://github.com/YarinBeni/DHC--Postcards-Project/blob/main/P063.D013.PN00002.S001.F.png?raw=true" width="225" height="300" />
+  <img src="https://github.com/YarinBeni/DHC--Postcards-Project/blob/main/P063.D013.PN00002.S001.B.png?raw=true" width="400" height="300" /> 
 </p>
+
+*Figure: The images above display example of our data: both sides of a postcard from the Perlman Collection. The front side features an image representative of the American Colony series, while the reverse side contains both typed and handwritten text, providing a unique glimpse into the period's correspondence style.*
 
 
 ## Project Goals
