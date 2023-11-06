@@ -5,6 +5,12 @@ In this project, we help in the scanning, tagging, and preprocessing of the data
 To aid in this process, I have developed a Python script for preprocessing images and Excel tables to match the database API.
 The script uses: Python, Pandas, OS, PIL and does not use any other external libraries or technologies beyond these four.
 
+<p float="left">
+  <img src="https://github.com/YarinBeni/DHC--Postcards-Project/blob/main/P063.D013.PN00002.S001.F.png?raw=true" width="300" />
+  <img src="https://github.com/YarinBeni/DHC--Postcards-Project/blob/main/P063.D013.PN00002.S001.B.png?raw=true" width="300" /> 
+</p>
+
+
 ## Project Goals
 The goal of the Postcards Project is to make this unique and valuable collection of postcards more accessible to researchers and the general public.  
 By digitizing and organizing the postcards, we hope to facilitate the study of folk traditions and cultural history.
